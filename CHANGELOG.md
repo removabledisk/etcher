@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.92
+## (2020-05-22)
+
+* Remove unneeded fortawesome from main.scss [Alexis Svinartchouk]
+* Remove unneeded font formats [Alexis Svinartchouk]
+* Webpack everything, reduce package size [Alexis Svinartchouk]
+
 # v1.5.91
 ## (2020-05-21)
 
